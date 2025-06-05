@@ -1,6 +1,10 @@
 # 📱 Aplicación de Signo Zodiacal y Horóscopo Chino 🌟
 
-![Pantalla Principal](screenshots/main_screen.png) | ![Resultados](screenshots/results_screen.png)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter" />
+  </a>
+</p>
 
 ## 📌 Descripción
 
